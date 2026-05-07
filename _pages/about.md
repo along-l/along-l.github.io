@@ -79,12 +79,18 @@ Xixun Lin, Yang Liu, Yancheng Chen, Yongxuan Wu, Yucheng Ning, **Yilong Liu**, N
 
 
 # 📖 Educations
-- *2023.09 - now*, Ph.D Student at Institute of Information Engineering, CAS, University of Chinese Academy of Sciences, Beijing, China.
+- *2023.09 - now*, Ph.D Student at IIE, CAS, University of Chinese Academy of Sciences, Beijing, China.
 - *2019.09 - 2023.06*, B.Eng. in Computer Science and Technology, Zhejiang Sci-Tech University, Hangzhou, China.
 
 
 # 🌍 Visitor Map
 
-<div style="max-width: 200px;">
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=meJb9_lTK2aChHpTHrAO2LENwxxxt0TpWexCf0on7uY"></script>
+<div style="
+  max-width: 280px;
+  padding: 0px;
+  background: #ffffff;
+  box-shadow: 1px 1px 6px #888;
+  margin-bottom: 10px;
+  ">
+  <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=01369f&w=a&t=tt&d=meJb9_lTK2aChHpTHrAO2LENwxxxt0TpWexCf0on7uY&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=000000'></script>
 </div>
