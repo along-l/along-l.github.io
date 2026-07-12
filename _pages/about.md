@@ -70,17 +70,21 @@ Xixun Lin, Yang Liu, Yancheng Chen, Yongxuan Wu, Yucheng Ning, **Yilong Liu**, N
 
 
 # 🎖 Honors and Awards
-- Merit Student of the UCAS (中国科学院大学三好学生)
-- The 46th International Collegiate Programming Contest (ACM-ICPC), Jinan Regional, **Silver Medal**
-- The 45th International Collegiate Programming Contest (ACM-ICPC), Shenyang Regional, **Silver Medal**
-<!-- - The ICPC International Collegiate Programming Contest, **Silver Medal** × 2 (45th Shenyang Regional & 46th Jinan Regional) -->
+- The 46th International Collegiate Programming Contest (ACM-ICPC), Jinan Regional, **Silver Medal**, *Nov. 2021*
+- The 45th International Collegiate Programming Contest (ACM-ICPC), Shenyang Regional, **Silver Medal**, *Jul. 2021*
+- 2021 China Collegiate Programming Contest (CCPC), Weihai Station, **Bronze Medal**, *Nov. 2021*
+- The 12th Chinese Mathematics Competitions for College Students (Non-Mathematics Major), **Third Prize**, *Dec. 2020*
+- The 19th Zhejiang Provincial Collegiate Programming Contest, **Silver Medal**, *Apr. 2022*
+- Zhejiang Provincial Collegiate Students Physics Innovation Competition (Theoretical), **First Prize**, *Dec. 2020*
 
-<!-- # 🧩 Academic Services -->
+
+# 🧩 Academic Services
+Program Committee Member of NeurIPS.
 
 
 # 📖 Educations
 - *2023.09 - now*, Ph.D Student at IIE, CAS, University of Chinese Academy of Sciences, Beijing, China.
-- *2019.09 - 2023.06*, B.Eng. in Computer Science and Technology, Zhejiang Sci-Tech University, Hangzhou, China.
+- *2019.09 - 2023.06*, B.Eng. in Computer Science and Technology, Qixin School (Electronic Information Experimental Class), Zhejiang Sci-Tech University, Hangzhou, China.
 
 
 # 🌍 Visitor Map
