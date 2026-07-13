@@ -87,14 +87,10 @@ Program Committee Member of NeurIPS.
 - *2019.09 - 2023.06*, B.Eng. in Computer Science and Technology, Qixin School (Electronic Information Experimental Class), Zhejiang Sci-Tech University, Hangzhou, China.
 
 
-# 🌍 Visitor Map
+# 🌍 Visitors
 
-<div style="
-  max-width: 280px;
-  padding: 0px;
-  background: #ffffff;
-  box-shadow: 1px 1px 6px #888;
-  margin-bottom: 10px;
-  ">
-  <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=01369f&w=a&t=tt&d=meJb9_lTK2aChHpTHrAO2LENwxxxt0TpWexCf0on7uY&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=000000'></script>
-</div>
+<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+<span style="color:#666; font-size: 0.95em;">
+  Total visits <span id="busuanzi_value_site_pv" style="font-weight:bold;">···</span> ·
+  Unique visitors <span id="busuanzi_value_site_uv" style="font-weight:bold;">···</span>
+</span>
