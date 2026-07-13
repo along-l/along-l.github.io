@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello! My name is **Yilong Liu (刘一龙)**. I am a PhD student at **Institute of Information Engineering, Chinese Academy of Sciences (IIE, CAS)**, supervised by Prof. [Yanan Cao](https://people.ucas.ac.cn/~caoyanan) and [Xixun Lin](https://linxixun.github.io/).
+Hello! 👋 My name is **Yilong Liu (刘一龙)**. I am a PhD student at **Institute of Information Engineering, Chinese Academy of Sciences (IIE, CAS)**, supervised by Prof. [Yanan Cao](https://people.ucas.ac.cn/~caoyanan) and [Xixun Lin](https://linxixun.github.io/).
 
 My research interests focus on the **Interpretability and Safety of Large Language Models / Agents**. <a href='https://scholar.google.com/citations?user=7IIT50UAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
@@ -85,12 +85,3 @@ Program Committee Member of NeurIPS.
 # 📖 Educations
 - *2023.09 - now*, Ph.D Student at IIE, CAS, University of Chinese Academy of Sciences, Beijing, China.
 - *2019.09 - 2023.06*, B.Eng. in Computer Science and Technology, Qixin School (Electronic Information Experimental Class), Zhejiang Sci-Tech University, Hangzhou, China.
-
-
-# 🌍 Visitors
-
-<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-<span style="color:#666; font-size: 0.95em;">
-  Total visits <span id="busuanzi_value_site_pv" style="font-weight:bold;">···</span> ·
-  Unique visitors <span id="busuanzi_value_site_uv" style="font-weight:bold;">···</span>
-</span>
