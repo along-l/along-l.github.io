@@ -78,10 +78,10 @@ Xixun Lin, Yang Liu, Yancheng Chen, Yongxuan Wu, Yucheng Ning, **Yilong Liu**, N
 - Zhejiang Provincial Collegiate Students Physics Innovation Competition (Theoretical), **First Prize**, *Dec. 2020*
 
 
-# 🧩 Academic Services
-Program Committee Member of NeurIPS.
-
-
 # 📖 Educations
 - *2023.09 - now*, Ph.D Student at IIE, CAS, University of Chinese Academy of Sciences, Beijing, China.
 - *2019.09 - 2023.06*, B.Eng. in Computer Science and Technology, Qixin School (Electronic Information Experimental Class), Zhejiang Sci-Tech University, Hangzhou, China.
+
+
+# 🧩 Academic Services
+Program Committee Member of NeurIPS.
